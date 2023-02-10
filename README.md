@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages/frameworks that I haven't tried:
+- Golang
+- Ruby
+- Rust
+- The list continues
