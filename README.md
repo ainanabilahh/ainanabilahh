@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 I’m currently learning
+- React + NextJS 
+- Laravel
+- Flutter 
+
 Languages/frameworks/techs that I would like to try:
 - Golang
 - Ruby
 - Rust
-- React + NextJS - In the middle of development
 - React + Gatsby
 - Swagger
 - PlanetScale
