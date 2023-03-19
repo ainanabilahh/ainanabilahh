@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Languages/frameworks that I haven't tried:
+Languages/frameworks/techs that I would like to try:
 - Golang
 - Ruby
 - Rust
+- React + NextJS - In the middle of development
+- React + Gatsby
+- Swagger
+- PlanetScale
+- Min.io
 - The list continues
