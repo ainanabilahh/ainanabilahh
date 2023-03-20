@@ -28,4 +28,5 @@ Languages/frameworks/techs that I would like to try:
 - Swagger
 - PlanetScale
 - Min.io
+- AirTable
 - The list continues
