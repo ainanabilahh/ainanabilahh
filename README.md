@@ -31,4 +31,4 @@ Languages/frameworks/techs that I would like to try:
 - AirTable
 - The list continues
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainanabilahh&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainanabilahh&show_icons=true&theme=radical)
