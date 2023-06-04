@@ -35,6 +35,4 @@ Languages/frameworks/techs that I would like to try:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainanabilahh&layout=compact&theme=github_dark_dimmed)
 
-[![wakatime](https://wakatime.com/badge/user/0d18b31f-23d1-4fa1-8e6d-f963178e4ebd.svg)](https://wakatime.com/@0d18b31f-23d1-4fa1-8e6d-f963178e4ebd)
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ainanabilahh&layout=compact&theme=github_dark_dimmed)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ainanabilahh&layout=compact&theme=github_dark_dimmed)
