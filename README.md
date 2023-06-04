@@ -32,3 +32,5 @@ Languages/frameworks/techs that I would like to try:
 - The list continues
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainanabilahh&show_icons=true&theme=github_dark_dimmed)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainanabilahh&layout=compact&theme=github_dark_dimmed)
