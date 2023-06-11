@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 Personal Technology Stack
+## :stars2 Personal Technology Stack
 
 - Programming Languages: PHP (Laravel), Dart (Flutter), Python
 - Front-end: HTML, CSS, Javascript,
