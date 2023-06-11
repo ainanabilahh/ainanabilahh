@@ -15,21 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning
-- React + NextJS
-- Laravel
-- Flutter
+# Personal Technology Stack
 
-Languages/frameworks/techs that I would like to try:
+- Programming Languages: PHP (Laravel), Dart (Flutter), Python
+- Front-end: HTML, CSS, Javascript,
+- Back-end: PHP (Laravel), Python
+- Databases: MSSQL, MySQL, MariaDB
+- DevOps: Git, Linux
+- Other Tools: VS Code, Postman
+
+# Languages/frameworks/techs that I would like to try:
+
 - Golang
 - Ruby
 - Rust
 - React + Gatsby
+- React + NextJs
+- Astro
 - Swagger
 - PlanetScale
 - Min.io
 - AirTable
 - The list continues
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainanabilahh&show_icons=true&theme=github_dark_dimmed)
 
