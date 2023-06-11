@@ -1,4 +1,4 @@
-## こんにちは 👋
+## こんにちは 👋 私の名前はアイナです。
 
 <!--
 **ainanabilahh/ainanabilahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
