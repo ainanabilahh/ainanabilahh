@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 
 ## 🌱 Languages/frameworks/techs that I would like to try:
 
+| Languages | Frameworks | Tools |
+|-----------------|-----------------|-----------------|
+| Golang | React + Gatsby | Swagger |
+| Ruby | React + NextJs | PlanetScale |
+| Rust | Astro | Min.io |
+| | | AirTable |
+
+
 - Golang
 - Ruby
 - Rust
