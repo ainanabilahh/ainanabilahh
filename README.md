@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - DevOps: Git, Linux
 - Other Tools: VS Code, Postman
 
+## ⚡ Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainanabilahh&show_icons=true&theme=omni&include_all_commits=true&hide_rank=false&rank_icon=github&line_height=24&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainanabilahh&layout=compact&theme=omni&card_width=370)
 
