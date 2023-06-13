@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainanabilahh&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&hide_rank=false&rank_icon=github&hide=issues)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainanabilahh&layout=compact&theme=github_dark_dimmed)
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ainanabilahh&layout=compact&theme=github_dark_dimmed)
