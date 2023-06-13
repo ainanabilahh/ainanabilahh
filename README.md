@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - The list continues
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainanabilahh&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainanabilahh&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&hide_rank=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainanabilahh&layout=compact&theme=github_dark_dimmed)
 
