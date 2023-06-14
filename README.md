@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🔭 Personal Technology Stack
 
 - Programming Languages: PHP (Laravel), Dart (Flutter), Python
-- Front-end: HTML, CSS, Javascript,
+- Front-end: HTML, CSS, Javascript, jQuery
 - Back-end: PHP (Laravel), Python
 - Databases: MSSQL, MySQL, MariaDB
 - DevOps: Git, Linux
