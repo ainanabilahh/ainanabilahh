@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 - Project Management Tools: Jira
 - Other Tools: VS Code, Postman
 - Fundamental knowledge I learned in university: Java, C++, Netcentric Computing, Security, Digital Forensic, Network, Wireless Networking
-
-- Add on: I would love to venture into the digital forensics area
+- Side note: I would love to venture into the digital forensics area
 
 ## ⚡ Stats
 
