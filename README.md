@@ -1,5 +1,7 @@
 ## こんにちは 👋 私の名前はアイナです。
 
+![](https://komarev.com/ghpvc/?username=ainanabilahh)
+
 <!--
 **ainanabilahh/ainanabilahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
