@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - DevOps: Git, Linux
 - Project Management Tools: Jira
 - Other Tools: VS Code, Postman
+- Fundamental knowledge I learned in university: Java, C++, Netcentric Computing, Security, Digital Forensic, Network, Wireless Networking
+
+Add on: I have a strong passion for technology and a keen interest in criminal investigations, which is why I would love to venture into the digital forensics area."
 
 ## ⚡ Stats
 
