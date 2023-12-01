@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - React Native one and only, forever
 - Spring Boot perhaps? 
 
-- ## 🔭 My Other Stack
+## ⚡ My Other Stack
 
 - Laravel
 - Flutter
