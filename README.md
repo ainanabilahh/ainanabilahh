@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 Personal Technology Stack
+## 🔭 Current Stack
 
-- Programming Languages: PHP (Laravel), Dart (Flutter), Python
-- Front-end: HTML, CSS, Javascript, jQuery
-- Back-end: PHP (Laravel), Python
-- Databases: MSSQL, MySQL, MariaDB
-- DevOps: Git, Linux
-- Project Management Tools: Jira
-- Other Tools: VS Code, Postman
-- Fundamental knowledge I learned in university: Java, C++, Netcentric Computing, Security, Digital Forensic, Network, Wireless Networking
-- Side note: I would love to venture into the digital forensics field
+- React Native one and only, forever
+- Spring Boot perhaps? 
+
+- ## 🔭 My Other Stack
+
+- Laravel
+- Flutter
+- Python
 
 ## ⚡ Stats
 
@@ -35,13 +34,3 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainanabilahh&layout=compact&theme=omni&card_width=370)
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ainanabilahh&layout=compact&theme=omni)
 
-## 🌱 Languages/frameworks/techs that I would like to try:
-
-| Languages | Frameworks | Tools |
-|-----------------|-----------------|-----------------|
-| Golang | React + Gatsby | Swagger |
-| Ruby | React + NextJs | PlanetScale |
-| Rust | Astro | Min.io |
-| | | AirTable |
-
-The list continues
