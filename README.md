@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## 🔭 Current Stack
 
@@ -33,4 +33,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainanabilahh&show_icons=true&theme=omni&include_all_commits=true&hide_rank=false&rank_icon=github&line_height=24&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainanabilahh&layout=compact&theme=omni&card_width=370)
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ainanabilahh&layout=compact&theme=omni)
+
+-->
+
+I just want to live a normal life.
 
